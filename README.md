@@ -52,9 +52,9 @@ masternode outputs
 
 **Step 5:** Still on the main computer, go into the BTCONE data directory:
 
-OS | Path to BTCONE
+OS | Path to BTCONE 
 ------------ | -------------
-Windows | `%Appdata%/BTCONE/`
+Windows | %Appdata%/Roaming/BTCONE/
 macOS | `~/Library/Application\ Support/BTCONE/`
 Linux | `~/.bitcoinone/`
 
